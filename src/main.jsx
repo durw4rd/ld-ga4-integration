@@ -38,7 +38,7 @@ async function initLD({ clientSideID, context }) {
       diagnosticOptOut: false,
       application: {
         version: "1.0.0",
-        id: "btan-react-demo",
+        id: "vite-react-demo",
       },
     },
     context,
